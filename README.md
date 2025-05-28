@@ -4,10 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
 </head>
-<body>
+<body style="background-color: black">
     <div class="profile">
         <!-- Replace with actual image path -->
-        <img src="/img/log.gif" alt="maxHunterTz" class="profile-photo">
+        <img src="giphy.gif" alt="maxHunterTz" class="profile-photo">
         <h1>maxHunterTz</h1>
         <p><strong>Ethical Hacker | Cybersecurity Enthusiast</strong></p>
         <p>Hellow there!👋 </p>
