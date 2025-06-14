@@ -11,9 +11,10 @@
  <p>Hellow there!👋 am maxHunter from Tanzania</p>
         <p>interest in:</p>
         <ul>
-            <li><img src="" alt="maxHunterTz" width="70" height="70"></li>
-            <li><img src="" alt="maxHunterTz" width="70" height="70"></li>
-            <li><img src="" alt="maxHunterTz" width="70" height="70"></li>
-            <li><img src="" alt="maxHunterTz" width="70" height="70"></li>
+            <li><img src="linux.png" alt="maxHunterTz" width="80" height="70"></li>
+            <li><img src="python.png" alt="maxHunterTz" width="70" height="70"></li>
+            <li><img src="js.jpg" alt="maxHunterTz" width="70" height="70"></li>
+            <li><img src="css.png" alt="maxHunterTz" width="70" height="70"></li>
+            <li><img src="c.png" alt="maxHunterTz" width="80" height="70"></li>
  </body>
 </html>
